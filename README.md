@@ -6,3 +6,4 @@ The given scrapes data(Headlines) from leading news sites like Times of India, N
 NOTE:
 1. IBM Watson account has to be created and the credentials should be used in 'api.py'.
 2. The 'toi_crawler' and 'ndtv_crawler' files need to be updated as and when required manually since the website keeps changing its webpages.
+3. All the files should be in same directory.
