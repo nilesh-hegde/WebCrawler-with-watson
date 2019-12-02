@@ -8,9 +8,9 @@ d={'anger':0,'fear':0,'joy':0,'sadness':0,'analytical':0,'confident':0,'tentativ
 
 def analysis(text,file):
     tone_analyzer = ToneAnalyzerV3(
-        version='2017-09-21',
-        username='51bd2236-b9c3-44a9-835e-d549aa6656d8',
-        password='wHi1zHMZJYmN',
+        version='*********',
+        username='**********',
+        password='**********',
         url='https://gateway.watsonplatform.net/tone-analyzer/api'
     )
 
